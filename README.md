@@ -17,11 +17,7 @@ Passionné par la technologie, je navigue entre la construction d'applications m
 Mon portfolio s'articule autour de trois axes principaux :
 * 🤖 **Intelligence Artificielle** : Exploration des modèles et de l'automatisation.
 * 🔐 **Sécurité Informatique** : Challenges CTF et sécurisation applicative.
-* * 🛠 **Développement Logiciel** : Création d'interfaces réactives et performantes.
-
-## 🚀 Stack Technique
-
-Basé sur mes projets récents (Scolaires & Personnels) :
+* 🛠 **Développement Logiciel** : Création d'interfaces réactives et performantes.
 
 ## 🌐 Me retrouver
 
